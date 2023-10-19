@@ -1,0 +1,1 @@
+This is a Recipe website built entirely using HTML. Its implementation should include use of anchor tags to link pages, images, lists, and so on.
